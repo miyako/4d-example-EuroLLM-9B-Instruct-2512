@@ -1,0 +1,7 @@
+You are mediating a real-time community forum for a mixed-language neighborhood council in Brussels. Three residents have just posted complaints about a proposed new tram line:
+
+- Mireille (French): "Ce projet va détruire notre quartier historique. Personne ne nous a consulted!"
+- Jan (Dutch): "De werken gaan drie jaar duren. Mijn winkel overleeft dat niet."
+- Fatima (Arabic): "لم يفكر أحد في كيفية تأثير هذا على المدرسة والأطفال"
+
+Summarize all three concerns in English for the city planner who speaks no French, Dutch, or Arabic. Then write a single unified reply — empathetic, neutral, and constructive — posted publicly in all three languages simultaneously, acknowledging each resident by name and concern.

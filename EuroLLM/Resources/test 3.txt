@@ -1,0 +1,3 @@
+A small family-run winery in Burgundy, France wants to expand sales across Europe. They've written the following product description in French:
+"Notre Pinot Noir 2021 révèle des arômes de cerise noire et de sous-bois, avec une finale longue et soyeuse. Élevé en fûts de chêne pendant 14 mois."
+Adapt this — not just translate, but culturally localize — into German (for a formal Austrian wine retailer), Spanish (for a casual Barcelona tapas bar menu), and Greek (for a luxury Athens hotel wine list). Adjust the tone, vocabulary, and selling points appropriately for each audience and market culture.
